@@ -6,7 +6,7 @@ Instructions and examples for cross-compiling FreeRTOS on an STM32 on macOS
 
 1. This tutorial assumes you have installed a recent Xcode Command Line Tools (Make, Git, etc.)
 ```
-$ xcode-select --installhttps://developer.arm.com/open-source/gnu-toolchain/gnu-rm
+$ xcode-select --install
 ```
 
 2. Install the Homebrew package manager - brew.sh
