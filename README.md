@@ -105,3 +105,4 @@ $ STM32_Programmer_CLI -c port=SWD -w build/example.elf
 Exercise for the programmer:
 Make a new FreeRTOS thread that blinks User LEDS 1,2,3 every 0.5 seconds, and program the board
 
+TODO: get ARM linker script and FreeRTOS to work with C++
